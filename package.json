@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My remarkable Nuxt.js project",
   "author": "Edward Siwady Gabrie",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
     "build": "nuxt build",
